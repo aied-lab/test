@@ -1,0 +1,7 @@
+{
+  "name": "Agent Nexus",
+  "description": "An interactive D-ID Avatar interface powered by Gemini for conversation intelligence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
